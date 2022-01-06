@@ -8,14 +8,13 @@ h1{
 }
 p{
     line-height: 25px;
-
 }
 
 .contain{
     padding-left: 5%;
 }
 .left-border{
-    border-left: 4px solid #da3548;
+    border-left: 4px solid #3460f1;
     padding-left: 5px;
 }
 .color-orange{
@@ -58,8 +57,7 @@ section{
     border-radius: 20px;
 }
 .box-style img{
-    width:45%;
-    
+    width:45%; 
 }
 #color-bg1{
     background-color: #e8f9fb;
